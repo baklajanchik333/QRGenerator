@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Generator</string>
+    <string name="inputTextEdit">Введите текст...</string>
+    <string name="generateBtn">Сгенерировать</string>
+</resources>
